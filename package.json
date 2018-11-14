@@ -9,7 +9,10 @@
     "pg": "^7.4.3",
     "sequelize": "^4.38.0"
   },
-  "repository": "https://github.com/Codaisseur/customers-api.git",
+  "scripts": { 
+    "start": "node index.js" 
+  },
+  "repository": "https://github.com/kgracia14/customer_app",
   "author": "Kyle Gracia <kylepgracia@gmail.com>",
   "license": "MIT"
 }
