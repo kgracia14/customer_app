@@ -5,8 +5,11 @@
   "private": true,
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "4.16.2",
     "pg": "^7.4.3",
     "sequelize": "^4.38.0"
-  }
+  },
+  "repository": "https://github.com/Codaisseur/customers-api.git",
+  "author": "Kyle Gracia <kylepgracia@gmail.com>",
+  "license": "MIT"
 }
